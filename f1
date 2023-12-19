@@ -1,0 +1,7 @@
+void()
+{
+add();
+sub();
+mul();
+div();
+}
