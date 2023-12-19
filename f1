@@ -1,6 +1,10 @@
 void()
 {
-add();
+add()
+{
+add=a+b;
+printf("addition of a and b is",add);
+}
 sub();
 mul();
 div();
