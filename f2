@@ -1,5 +1,8 @@
 void()
 {
+sud()
+{
 sub=a-b
 printf("subtraction of a and b is",sub);
+}
 }
